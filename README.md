@@ -109,7 +109,7 @@ Computer vision + automation system using Python, OpenCV & FFmpeg.
 
 📧 muhammadaatir2266@gmail.com  
 📱 +92 315 5328390  
-🔗 LinkedIn: https://www.linkedin.com/in/muhammad-aatir-3779a4268/
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-aatir-3779a4268/  
 🛠 Fiverr (Automation Services): https://www.fiverr.com/malikworks12/
 
 ---
