@@ -1,7 +1,6 @@
 <h1 align="center">Muhammad Aatir</h1>
 <h3 align="center">
-Helping businesses automate outreach, calling, and workflows with AI-driven innovation | AI Agent Developer | Voice AI & Calling Automation Expert | Machine Learning Engineer  
-Building Intelligent Automation Systems That Replace Manual Work
+Helping businesses automate outreach, calling, and workflows through AI-driven innovation, designing intelligent systems that eliminate manual processes and scale operations.
 </h3>
 
 ---
@@ -111,6 +110,7 @@ Computer vision + automation system using Python, OpenCV & FFmpeg.
 📧 muhammadaatir2266@gmail.com  
 📱 +92 315 5328390  
 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-aatir-3779a4268/
+🛠 Fiverr (Automation Services): https://www.fiverr.com/malikworks12/
 
 ---
 
