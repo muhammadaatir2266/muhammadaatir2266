@@ -1,6 +1,6 @@
 <h1 align="center">Muhammad Aatir</h1>
 <h3 align="center">
-AI Agent Developer | Voice AI & Calling Automation Expert | Machine Learning Engineer  
+Helping businesses automate outreach, calling, and workflows with AI-driven innovation | AI Agent Developer | Voice AI & Calling Automation Expert | Machine Learning Engineer  
 Building Intelligent Automation Systems That Replace Manual Work
 </h3>
 
