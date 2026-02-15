@@ -10,7 +10,7 @@ Building Intelligent Automation Systems That Replace Manual Work
 
 I design and deploy **AI-powered automation systems** that help businesses operate smarter, faster, and at scale.
 
-From LLM-driven AI agents to real-time voice calling systems and full workflow automation using n8n, OpenAI, Retell, and VAPI — I build intelligent systems that create measurable impact.
+From LLM-driven AI agents to real-time voice calling systems and full workflow automation using n8n, OpenAI, Retell, and VAPI. I build intelligent systems that create measurable impact.
 
 💡 Helping businesses automate outreach, calling, and workflows with AI-driven innovation.
 
